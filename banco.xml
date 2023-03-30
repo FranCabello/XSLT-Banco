@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="html/xsl" href="ud5cp2.xsl"?>
+<banco>
+    <empleado>
+        <DNI>12345678A</DNI>
+        <nombre>Álvaro</nombre>
+        <apellidos>García Pérez</apellidos>
+        <sueldo>1200</sueldo>
+    </empleado>
+    
+    <empleado>
+        <DNI>12345679B</DNI>
+        <nombre>Beatriz</nombre>
+        <apellidos>Gallardo López</apellidos>
+        <sueldo>2050</sueldo>
+    </empleado>
+    
+    <empleado>
+        <DNI>12345687C</DNI>
+        <nombre>Carla</nombre>
+        <apellidos>Bruni</apellidos>
+        <sueldo>2500</sueldo>
+    </empleado>
+    
+    <empleado>
+        <DNI>12345697D</DNI>
+        <nombre>Damián</nombre>
+        <apellidos>Chacón Ruiz</apellidos>
+        <sueldo>1500</sueldo>
+    </empleado>
+</banco>
